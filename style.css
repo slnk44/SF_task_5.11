@@ -61,8 +61,8 @@ article:nth-child(even) {
     background: #f0f0f0;
 }
 
-article:nth-child(-n+2) h2::before{
-    content: "New ";    
+article:nth-child(-n+2) h2::before {
+    content: " New ";    
 }
 footer {
     padding-top: 20px;
