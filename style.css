@@ -56,6 +56,10 @@ article img {
     object-fit: cover;
 }
 
+article:nth-child(even) {
+
+    background: #f0f0f0;
+}
 
 footer {
     padding-top: 20px;
