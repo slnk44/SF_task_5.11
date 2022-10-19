@@ -9,12 +9,12 @@ header {
     justify-content: center;
     height: 400px;
     background-color: #d0d1d3;
-    background: url('https://unsplash.com/photos/o3eZxJRrNRQ?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink') bottom no-repeat;
+    background: url('https://images.unsplash.com/photo-1503694978374-8a2fa686963a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80') bottom no-repeat;
     background-size: cover;
 }
 
 h1 {
-    color:aquamarine;
+    color: #FFFFFF;
     font-size: 4rem;
     font-family: 'Times New Roman', Times, serif;
 }
